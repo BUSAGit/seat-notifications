@@ -21,7 +21,7 @@
     "laravel/framework": "^10.0",
     "laravel/slack-notification-channel": "^2.0",
     "laravel/tinker": "^2.5",
-    "eveseat/eveapi": "^4.0",
+    "eveseat/eveapi": "^5.0",
     "busa-git/seat-services": "^4.1",
     "symfony/yaml": "^4.0",
     "yajra/laravel-datatables-oracle": "~9"
