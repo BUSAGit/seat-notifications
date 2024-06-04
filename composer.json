@@ -20,9 +20,9 @@
     "fideloper/proxy": "^4.0",
     "laravel/framework": "^10.0",
     "laravel/slack-notification-channel": "^2.0",
-    "laravel/tinker": "^2.5",
+    "laravel/tinker": "^2.7",
     "eveseat/eveapi": "^5.0",
-    "busa-git/seat-services": "^4.1",
+    "busa-git/seat-services": "^5.0",
     "symfony/yaml": "^4.0",
     "yajra/laravel-datatables-oracle": "~9"
   },
