@@ -18,7 +18,7 @@
   "require": {
     "php": ">=7.3",
     "fideloper/proxy": "^4.0",
-    "laravel/framework": "^6.2",
+    "laravel/framework": "^10.0",
     "laravel/slack-notification-channel": "^2.0",
     "laravel/tinker": "^2.5",
     "eveseat/eveapi": "^4.0",
