@@ -1,5 +1,5 @@
 {
-  "name": "eveseat/notifications",
+  "name": "busa-git/seat-notifications",
   "description": "SeAT Notifications Components",
   "license": "GPL-2.0",
   "authors": [
@@ -20,8 +20,8 @@
     "laravel/framework": "^10.0",
     "laravel/slack-notification-channel": "^2.0",
     "eveseat/eveapi": "^5.0",
-    "eveseat/services": "^5.0",
-    "eveseat/web": "^5.0",
+    "busa-git/seat-services": "^5.0",
+    "busa-git/seat-web": "^5.0",
     "symfony/yaml": "^6.2",
     "yajra/laravel-datatables-oracle": "^10.0"
   },
